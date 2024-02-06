@@ -1,7 +1,7 @@
 # Carousel-nvenm
 no visual effects no mouse drug
 
-Copyright © 2020-2021. Boguslav Koledinskiy. The MIT License. Contact: boguslav.koledinskiy@gmail.com
+Copyright © 2020. Boguslav Koledinskiy. The MIT License. Contact: boguslav.koledinskiy@gmail.com
 
 Hi everybody.
 
